@@ -5,9 +5,6 @@
 
 Script to check the health of your Active Directory environment.
 
-This script was originally written by Nicolas Nerson and was first published at:  
-https://adhealthcheck.codeplex.com  
-
 The latest version available online was v1.14. This repository contains updated versions with several modifications and enhancements.
 
 ---
@@ -56,5 +53,3 @@ The provided worksheet ADHC_Auxiliar_XML.xlsx can be used to organize the requir
 
 Maintained by: komezino2021  
 Email: clementsadjere@gmail.com  
-
-e me to also create a **.gitignore file** for this repo (to ignore logs, temp files, and outputs like HTML/CSV) so your GitHub stays clean?
